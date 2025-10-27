@@ -1,0 +1,4 @@
+Page Background - #EDEFF0
+Compliment Color - #414FB1
+Blur Text Color - #A39B97
+Special Whit - #FBFDFF
