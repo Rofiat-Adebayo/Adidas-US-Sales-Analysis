@@ -1,0 +1,16 @@
+# 🏀 Adidas US Sales Analysis Dashboard  
+
+This project explores Adidas US retail performance data — highlighting key trends in revenue, profitability, and sales across channels and regions.  
+
+## 📊 Interactive Dashboard  
+Click below to view the live interactive dashboard hosted on Microsoft Fabric 👇  
+
+👉 [**View Dashboard on Power BI**](https://app.fabric.microsoft.com/reportEmbed?reportId=00994adb-de07-47fa-97c6-77465ed13b7d&autoAuth=true&ctid=37d7521a-5079-48af-9131-4ac2cb6f1e3a)
+![Dashboard Preview](dashboard_preview.png)
+
+---
+
+### 🧰 Tools Used
+- Power BI (Microsoft Fabric)
+- Excel (Data Cleaning)
+- GitHub (Documentation)
