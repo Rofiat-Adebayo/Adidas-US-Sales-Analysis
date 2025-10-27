@@ -35,7 +35,7 @@ It contains transaction-level sales data for Adidas’ US operations with the fo
 - This project provides a **comprehensive retail performance analysis** of Adidas’ US sales operations.  
 - It focuses on **product mix, regional contribution, sales channels, and profitability trends** to uncover insights that guide marketing, supply chain, and pricing strategies.
 
----<img width="960" height="425" alt="Screenshot 4" src="https://github.com/user-attachments/assets/afff82ec-9143-4d4d-9915-8d8e44db8616" />
+<img width="565" height="322" alt="corper1" src="https://github.com/user-attachments/assets/d07bea7b-703b-4ff9-816b-9ffcf67fa575" />
 - Displays overall KPIs and interactive navigation buttons.
 - Includes a regional map showing total sales across the US.
 
@@ -117,8 +117,9 @@ DIVIDE([Total Sales], [Total Units Sold], 0)
 - Men’s Athletic Footwear dominates with 436K units sold and $153.7M in sales.
 - Channel breakdown: In-store ($59M) · Outlet ($53M) · Online ($42M).
 
-📌 Highlights product contribution and sales distribution.
 <img width="551" height="333" alt="corper 2" src="https://github.com/user-attachments/assets/43fc6fd1-8bb2-48b4-a2b9-d4c0fa0c8918" />
+📌 Highlights product contribution and sales distribution.
+
 
 ## Regional & Retailer Insights Page
 - Ranks top-performing regions and retailers.
@@ -126,8 +127,8 @@ DIVIDE([Total Sales], [Total Units Sold], 0)
 - Top Regions: West ($16M) and Midwest ($12M).
 - Map visualization reveals regional dominance and performance clusters.
 
-📌 Supports decisions on resource allocation and territory performance.
 <img width="614" height="328" alt="corper3" src="https://github.com/user-attachments/assets/edf0e0a6-edbd-4d03-8df3-8aa6fd40b585" />
+📌 Supports decisions on resource allocation and territory performance.
 
 
 ## Trend Analysis Page
@@ -136,8 +137,9 @@ DIVIDE([Total Sales], [Total Units Sold], 0)
 - Stable 43% operating margin showing consistent cost efficiency.
 - Visible seasonal peak from April–August with gradual year-end decline.
 
+<img width="611" height="332" alt="corper4" src="https://github.com/user-attachments/assets/651fd7ec-a252-47ba-9bfe-a7a8d90200cb" />
 📌 Analyzes performance cycles and profitability trends.
-<img width="960" height="540" alt="Screenshot 1" src="https://github.com/user-attachments/assets/8bafc0aa-3c50-4c33-9dc4-cb67e28b38f3" />
+
 
 ## 💡Key Insights
 
