@@ -140,7 +140,7 @@ DIVIDE([Total Sales], [Total Units Sold], 0)
 - Stable 43% operating margin showing consistent cost efficiency.
 - Visible seasonal peak from April–August with gradual year-end decline.
 
-<img width="611" height="332" alt="corper4" src="https://github.com/user-attachments/assets/651fd7ec-a252-47ba-9bfe-a7a8d90200cb" />
+<img width="643" height="342" alt="!" src="https://github.com/user-attachments/assets/7a3e164a-8dc3-404c-80ba-967c9472cd89" />
 
 📌 Analyzes performance cycles and profitability trends.
 
