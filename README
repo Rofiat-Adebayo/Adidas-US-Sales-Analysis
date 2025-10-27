@@ -5,7 +5,7 @@ This project explores Adidas US retail performance data — highlighting key tre
 ## 📊 Interactive Dashboard  
 Click below to view the live interactive dashboard hosted on Microsoft Fabric 👇  
 
-👉 [**View Dashboard on Power BI**](https://app.fabric.microsoft.com/reportEmbed?reportId=00994adb-de07-47fa-97c6-77465ed13b7d&autoAuth=true&ctid=37d7521a-5079-48af-9131-4ac2cb6f1e3a)
+👉 [<iframe title="Adidas Us Sales analysis" width="1140" height="541.25" src="https://app.fabric.microsoft.com/reportEmbed?reportId=00994adb-de07-47fa-97c6-77465ed13b7d&autoAuth=true&ctid=37d7521a-5079-48af-9131-4ac2cb6f1e3a" frameborder="0" allowFullScreen="true"></iframe>
 
 ![Dashboard Preview](dashboard_preview.png)
 
