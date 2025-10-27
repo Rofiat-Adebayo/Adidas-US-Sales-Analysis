@@ -36,6 +36,7 @@ It contains transaction-level sales data for Adidas’ US operations with the fo
 - It focuses on **product mix, regional contribution, sales channels, and profitability trends** to uncover insights that guide marketing, supply chain, and pricing strategies.
 
 <img width="565" height="322" alt="corper1" src="https://github.com/user-attachments/assets/d07bea7b-703b-4ff9-816b-9ffcf67fa575" />
+
 - Displays overall KPIs and interactive navigation buttons.
 - Includes a regional map showing total sales across the US.
 
@@ -118,6 +119,7 @@ DIVIDE([Total Sales], [Total Units Sold], 0)
 - Channel breakdown: In-store ($59M) · Outlet ($53M) · Online ($42M).
 
 <img width="551" height="333" alt="corper 2" src="https://github.com/user-attachments/assets/43fc6fd1-8bb2-48b4-a2b9-d4c0fa0c8918" />
+
 📌 Highlights product contribution and sales distribution.
 
 
@@ -128,6 +130,7 @@ DIVIDE([Total Sales], [Total Units Sold], 0)
 - Map visualization reveals regional dominance and performance clusters.
 
 <img width="614" height="328" alt="corper3" src="https://github.com/user-attachments/assets/edf0e0a6-edbd-4d03-8df3-8aa6fd40b585" />
+
 📌 Supports decisions on resource allocation and territory performance.
 
 
@@ -138,6 +141,7 @@ DIVIDE([Total Sales], [Total Units Sold], 0)
 - Visible seasonal peak from April–August with gradual year-end decline.
 
 <img width="611" height="332" alt="corper4" src="https://github.com/user-attachments/assets/651fd7ec-a252-47ba-9bfe-a7a8d90200cb" />
+
 📌 Analyzes performance cycles and profitability trends.
 
 
